@@ -1,0 +1,14 @@
+layout_spectrum: 0.04862947
+typography_spectrum: 0.3545815
+color:
+  saturation: 0.5383756
+  lightness: 0.5171036
+  brandStrength: 0.9670635
+  rhythmicContrast: 0.5930421
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Mygridtest
